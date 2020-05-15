@@ -27,7 +27,7 @@
 >Um das Elvis-Handbuch zu modellieren, wurden verschiedene Schritte durchgeführt. 
 Zunächst wurde das Elvis-Handbuch unter den zwei Gruppen aufgeteilt. Unsere Gruppe beschäftigte sich mit den Abschnitten 1.1. bis 1.9. Die Abschnitte wurden innerhalb der Gruppe untereinander erneut aufgeteilt, sodass jedes Mitglied etwa 15 Seiten ausarbeiten sollte. Das Ziel von dieser Phase war es, wichtige Begriffe, Methoden sowie Funktionen aus dem Handbuch zu erfassen, die modelliert werden sollen. Diese wurden in eine Excel-Tabelle eingetragen. Außerdem wurden mögliche Duplikate entfernt. Mit dem Online-Tool MindMeister [mindmeister](https://www.mindmeister.com/de) und [MindVisualizer](https://de.freedownloadmanager.org/Windows-PC/MindVisualizer-Standard.html) wurde eine Begriffshierarchie grafisch visualisiert, umso Ober- und Unterbegriffe zu bestimmen.
 
-![wikimedia.org](https://github.com/KaD3W3/gruppe1/blob/master/Elvis%20(Elvis-Thesaurus).bmp )
+![github]()
 
 
  >Die ermittelte Struktur, wurde anschließend in die Excel-Tabelle übernommen. Um eine Hierarchie darzustellen, wurden für jede Ebene unterschiedliche Farben verwendet.
@@ -60,35 +60,7 @@ Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1)
 
 ![wikimedia.org](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVlRoaqFLdQ8dZh-hSApOIxHMLE-bIFEK7Xsffjnio5rb1dspI&usqp=CAU )
 
->Die (iterativ erstellten) Versionen Ihres Modells 
 
-* [x]  Alle erfassten Begriffe, Methoden und Funktionen der Gruppenmitglieder in einer Tabelle zusammengefasst.
-
-* [x] Duplikate entfernt.
-
-* [x] Synonyme hinzugefügt.
-  
-* [x] Grafisch in Mind Master abgebildet und Ihre zusammenhänge gesetzt….
-  
-* [x] Grafische Abbildung in einer Tabelle umgesetzt und Ihrer Oberbegriffe
-  
-* [x] Synonyme erneut zugeteilt
-  
-* [x] ID’s festgelegt
-  
-* [x] Feedback Cornelsen
-
-* [x] Erneute Anpassungen der Oberbegriffe und Bedeutungen ohne ID’s
-  
-* [x] Zusammenführung beider Tabellen beider Gruppen
-Duplikate entfernen
-
-* [x] Meeting der Gruppen um Tabelle zu strukturieren 
-  
-* [x] Feedback Cornelsen Anpassung Tabelle xMal
-Schlussstrich ziehen endentwurf Festgelegt
-
-* [x] ID’s zuteilen
   
 ## 5.Vorgehen bei der Qualitätssicherung
 
