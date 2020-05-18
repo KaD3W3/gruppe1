@@ -57,12 +57,15 @@ Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zust
 
 ## 4.Versionen des Modells – was jeweils verändert wurde ?
 
-Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1), die aus mehreren Reitern bestand. In der ersten Phase des Modells (Im Reiter: “alleTeileEinzeln”), existierte kein einheitlicher strukturierter Aufbau der Begriffe. Da nur, alle gesammelten Begriffe jedes einzelnen Gruppenmitglieds dort drin aufgeführt waren. (siehe Abbildung 2)
+Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1), die aus mehreren Reitern bestand.
 
 
 <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur.PNG" >
+
 <h3> Abbildung 1: Excel-Datei </h3> 
 
+
+ In der ersten Phase des Modells (Im Reiter: “alleTeileEinzeln”), existierte kein einheitlicher strukturierter Aufbau der Begriffe. Da nur, alle gesammelten Begriffe jedes einzelnen Gruppenmitglieds dort drin aufgeführt waren. (siehe Abbildung 2)
 
 <img src="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Erste%20Phase%20des%20Modells.PNG">
 <h3> Abbildung 2: Erste Phase des Modells </h3> 
