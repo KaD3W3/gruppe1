@@ -75,14 +75,18 @@ Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1)
   
   Hierbei half die Alphabetische Sortierung zur Lokalisierung der Duplikate, die dann entfernt wurden (siehe Abbildung 3). 
     
-   <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur.PNG">
+  <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur.PNG">
+   
  <h3>Abbildung 3: Tabellenstruktur<h3>
   
 Im nächsten Teilschritt der Tabellenstruktur (siehe Reiter “ausMindMeisterKopiert”), wurde wie bereits im zweiten Kapitel erwähnt, dass Mindmeister-Verfahren angewandt, um die Ober und- Unterstrukturen zu definieren, um so eine Hierarchiestruktur zu erzeugen. Im späteren Verlauf wurden die Synonyme der jeweiligen Begrifflichkeiten zugeordnet, sowie die Farblegende zur Hierarchien-Zuordnung der Begriffe inklusive ID festgelegt.
   
-> Durch die Feedbacks seitens Cornelsen, Prof. Sasaki und der anderen Gruppe, wurden dann gewisse Unterbegriffe neu zugeordnet bzw. Oberbegriffe neu ausgerichtet. Dieser Prozess ist im Reiter “MindMeisterNachFeedback” zu sehen. (siehe Abbildung 4)
+ Durch die Feedbacks seitens Cornelsen, Prof. Sasaki und der anderen Gruppe, wurden dann gewisse Unterbegriffe neu zugeordnet bzw. Oberbegriffe neu ausgerichtet. Dieser Prozess ist im Reiter “MindMeisterNachFeedback” zu sehen(siehe Abbildung 4). 
 
  <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur%20%2C%2CMindMeisterNachFeedback.PNG">
+ 
+ 
+ Im letzten Schritt wurde eine neue Excel-Datei angelegt, die das Zusammenführen beider Tabellen beinhalten. (siehe Abbildung 5) Hierbei wurden sowohl, wie bereits in den vorherigen Abschnitten erwähnt, Oberbegriffe und Unterbegriffe neu zugeordnet bzw. neu ausformuliert. Ebenfalls in diesem Schritt, mussten gewisse Duplikate lokalisiert und entfernt werden, die sich in beiden Tabellen befanden. Es musste jedoch ein baldiger Schlussstrich gezogen werden, da sonst noch eine endlose Zeit vergehen könnte, für die optimale Struktur der Tabelle.
   
 ## 5.Vorgehen bei der Qualitätssicherung
 
