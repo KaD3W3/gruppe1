@@ -84,9 +84,10 @@ Im nächsten Teilschritt der Tabellenstruktur (siehe Reiter “ausMindMeisterKop
  <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur%20%2C%2CMindMeisterNachFeedback.PNG">
  
  
-Im letzten Schritt wurde eine neue Excel-Datei angelegt, die das Zusammenführen beider Tabellen beinhalten(siehe Abbildung 5).
+Im letzten Schritt wurde eine neue Excel-Datei angelegt, die das Zusammenführen beider Tabellen beinhalten (siehe Abbildung 5).
  
- Hierbei wurden sowohl, wie bereits in den vorherigen Abschnitten erwähnt, Oberbegriffe und Unterbegriffe neu zugeordnet bzw. neu ausformuliert. Ebenfalls in diesem Schritt, mussten gewisse Duplikate lokalisiert und entfernt werden, die sich in beiden Tabellen befanden. Es musste jedoch ein baldiger Schlussstrich gezogen werden, da sonst noch eine endlose Zeit vergehen könnte, für die optimale Struktur der Tabelle.
+ >Hierbei wurden sowohl, wie bereits in den vorherigen Abschnitten erwähnt, Oberbegriffe und Unterbegriffe neu zugeordnet bzw. neu ausformuliert. Ebenfalls in diesem Schritt, mussten gewisse Duplikate lokalisiert und entfernt werden, die sich in beiden Tabellen befanden. Es musste jedoch ein baldiger Schlussstrich gezogen werden, da sonst noch eine endlose Zeit vergehen könnte, für die optimale Struktur der Tabelle.
+
  <img src ="https://cdn.discordapp.com/attachments/692412361101017088/712031935337070673/Unbenannt_Abbildung_5.png">
  
   <h3> Abbildung 5: Aktuelle Tabellenstruktur</h3> 
