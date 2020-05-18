@@ -114,12 +114,12 @@ Das Ergebnis ist nach unserem Gedanken und Erkenntnisse gut, aber es hättet bes
 **Negativ:**
 >Aufgrund eines fehlenden normierten Verfahrens zur Modellierung der Domäne, gab es einen zu großen Spielraum, in denen man selbst Festlegen konnte, wie gewisse Begrifflichkeiten zuzuordnen sind. Was auch zu den Unstimmigkeiten zwischen den beiden Gruppen führten, als die Tabellen zusammengefasst wurden. Nur dank der Firma Cornelsen und Prof. Sasaki, war es möglich gewissen Kritikpunkte und Unklarheiten zu klären.
 Ein weiterer Kritikpunkt bzw. eine Herausforderung war, dass die Veranstaltung und alle Meetings nur Online durchgeführt werden konnten, aufgrund der Corona Krise. So konnte nicht jeder aktiv mitmachen. Auch technische Probleme, z.B. Internetprobleme führten dazu, dass die Meetings sehr lange dauerten, um ordentliche zusammenarbeit zu garantieren. 
-Ein weiteres Problem war die unvollständige Anwesenheit jedes einzelnen Gruppenmitglied der Gruppen in den Meetings außerhalb der Vorlesung, wie bereits in Abschnitt 3b) erwähnt.
+Ein weiteres Problem war die unvollständige Anwesenheit jedes einzelnen Gruppenmitglied der Gruppen in den Meetings außerhalb der Vorlesung, wie bereits in Abschnitt 3.2) erwähnt.
 Auch das Abstimmungsverfahren mit der anderen Gruppe war ein weiteres Problem, da es via Online länger gedauert hat, als wenn die Abstimmung Face-to-Face durchgeführt wird. So hätten schnellere Ergebnisse erzielt werden können. 
 
 **Positiv:**
 >Sehr positiv zu erwähnen ist, dass Prof. Sasaki jederzeit für die Problemstellung und Klarstellung herangezogen werden konnte. Auch das Cornelsen wöchentlich Feedbacks mitteilte, die zu relativ schnellen Lösung führten. 
-Desweiteren, dass die Zusammenführung beider Tabellen sich nicht als so schwierig erwies, als gedacht. Da eine schnelle Einigung mit der anderen Gruppe erzielt werden konnte.
+Desweiteren war es hilfreich, dass die Zusammenführung beider Tabellen sich nicht als so schwierig erwies, als gedacht. Da eine schnelle Einigung mit der anderen Gruppe erzielt werden konnte.
 Dank der ganzen Feedbacks, iterativen Vorgehen und selbständige Arbeiten führten zu einem erfolgreichen Lernprozess, im Bereich der Modellierung einer Domäne.
 
 ## 7 Quellen
