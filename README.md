@@ -27,7 +27,7 @@
 >Um das Elvis-Handbuch zu modellieren, wurden verschiedene Schritte durchgeführt. 
 Zunächst wurde das Elvis-Handbuch unter den zwei Gruppen aufgeteilt. Unsere Gruppe beschäftigte sich mit den Abschnitten 1.1. bis 1.9. Die Abschnitte wurden innerhalb der Gruppe untereinander erneut aufgeteilt, sodass jedes Mitglied etwa 15 Seiten ausarbeiten sollte. Das Ziel von dieser Phase war es, wichtige Begriffe, Methoden sowie Funktionen aus dem Handbuch zu erfassen, die modelliert werden sollen. Diese wurden in eine Excel-Tabelle eingetragen. Außerdem wurden mögliche Duplikate entfernt. Mit dem Online-Tool MindMeister [mindmeister](https://www.mindmeister.com/de) und [MindVisualizer](https://de.freedownloadmanager.org/Windows-PC/MindVisualizer-Standard.html) wurde eine Begriffshierarchie grafisch visualisiert, umso Ober- und Unterbegriffe zu bestimmen.
 
-![github]()
+
 
 
  >Die ermittelte Struktur, wurde anschließend in die Excel-Tabelle übernommen. Um eine Hierarchie darzustellen, wurden für jede Ebene unterschiedliche Farben verwendet.
@@ -58,8 +58,13 @@ Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zust
 
 Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1), die aus mehreren Reitern bestand. In der ersten Phase des Modells (Im Reiter: “alleTeileEinzeln”), existierte kein einheitlicher strukturierter Aufbau der Begriffe. Da nur, alle gesammelten Begriffe jedes einzelnen Gruppenmitglieds dort drin aufgeführt waren. (siehe Abbildung 2)
 
-![wikimedia.org](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVlRoaqFLdQ8dZh-hSApOIxHMLE-bIFEK7Xsffjnio5rb1dspI&usqp=CAU )
 
+<img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur.PNG" >
+<h3> Abbildung 1: Excel-Datei </h3> 
+
+
+<img src="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Erste%20Phase%20des%20Modells.PNG">
+<h3> Abbildung 2: Erste Phase des Modells </h3> 
 
   
 ## 5.Vorgehen bei der Qualitätssicherung
@@ -69,23 +74,7 @@ Zudem mussten die Oberbegriffe und Unterbegriffe bestimmt werden. Hierbei wurde 
 Weitere Schritte der Qualitätssicherung waren die Feedbacks von Prof. Sasaki und den Damen vom Cornelsen Verlag. Hierbei wurden die Unklarheiten der Begriffe bzw. falsch interpretierte Zuordnungen erfasst und debattiert. Dank dieses Feedbacks wurden die Tabellen dementsprechend angepasst. Auch die Feedbacks der Gruppe 2 wurden in Betracht gezogen und eingearbeitet.
 Die größte Hürde der Qualitätssicherung, war das Zusammenführen der beiden Gruppentabellen. Da jede Gruppe zum Teil andere Oberbegriffe definiert und zum Teil Unterbegriffe anders zugeordnet haben. Hierbei spielten die Gruppenmeetings eine große Rolle, um die Unstimmigkeiten von gewissen Begriffen zu klären. Bei Unklarheiten bzw. Unstimmigkeiten innerhalb der Gruppen, wurde erneut das Handbuch herangezogen, um dies zu erörtern. Auch die Feedbacks von Prof. Sasaki und den Damen von Cornelsen, führten zu Klarstellungen bei Unklarheiten der Begriffszuordnung und Überarbeitungen der gemeinsamen Tabelle
 
-~~~html
-<a href="#">@prefix status: <http://purl.org/ontology/bibo/status/> .
-@prefix vann: <http://purl.org/vocab/vann/> .
-@prefix vs: <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
-@prefix xml: <http://www.w3.org/XML/1998/namespace> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-prism1:doi a owl:DatatypeProperty ;
-    owl:equivalentProperty bibo:doi .
-
-prism1:eIssn a owl:DatatypeProperty ;
-    owl:equivalentProperty bibo:eissn .
-
-prism1:edition a owl:DatatypeProperty ;
-    owl:equivalentProperty bibo:edition .
-</a>
-~~~
 
  ## 5. Unseres Sicht auf das Ergebnis</b>
 
