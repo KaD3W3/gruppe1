@@ -86,8 +86,11 @@ Im nächsten Teilschritt der Tabellenstruktur (siehe Reiter “ausMindMeisterKop
  <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur%20%2C%2CMindMeisterNachFeedback.PNG">
  
  
- Im letzten Schritt wurde eine neue Excel-Datei angelegt, die das Zusammenführen beider Tabellen beinhalten. (siehe Abbildung 5) Hierbei wurden sowohl, wie bereits in den vorherigen Abschnitten erwähnt, Oberbegriffe und Unterbegriffe neu zugeordnet bzw. neu ausformuliert. Ebenfalls in diesem Schritt, mussten gewisse Duplikate lokalisiert und entfernt werden, die sich in beiden Tabellen befanden. Es musste jedoch ein baldiger Schlussstrich gezogen werden, da sonst noch eine endlose Zeit vergehen könnte, für die optimale Struktur der Tabelle.
-  
+ Im letzten Schritt wurde eine neue Excel-Datei angelegt, die das Zusammenführen beider Tabellen beinhalten(siehe Abbildung 5).
+ 
+ Hierbei wurden sowohl, wie bereits in den vorherigen Abschnitten erwähnt, Oberbegriffe und Unterbegriffe neu zugeordnet bzw. neu ausformuliert. Ebenfalls in diesem Schritt, mussten gewisse Duplikate lokalisiert und entfernt werden, die sich in beiden Tabellen befanden. Es musste jedoch ein baldiger Schlussstrich gezogen werden, da sonst noch eine endlose Zeit vergehen könnte, für die optimale Struktur der Tabelle.
+   <img src ="https://cdn.discordapp.com/attachments/692412361101017088/712031935337070673/Unbenannt_Abbildung_5.png">
+   
 ## 5.Vorgehen bei der Qualitätssicherung
 
 >In den ersten Schritten zur Qualitätssicherung, wurden alle Begriffe jedes einzelnen Gruppenmitgliedes in einer Excel Tabelle überführt, basieren auf den Recherchen des Handbuchs. Durch die Diskussionen innerhalb der Gruppe, konnten bereits einige Unstimmigkeiten und Fragen geklärt werden. Im folgenden Schritt wurden die Duplikate identifiziert und entfernt.
