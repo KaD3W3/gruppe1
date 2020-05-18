@@ -14,7 +14,8 @@
 #### 5 Vorgehen bei der Qualitätssicherung
 
 #### 6 Sicht auf das Ergebnis: was ist gut, was hätte besser sein können?
-#### 7 Quellen
+#### 7 Anhang
+#### 8 Quellen
 
 ## 1.  Die modellierte Domäne </b>
 
@@ -60,7 +61,7 @@ Außerdem war es für einige Gruppenmitglieder schwierig zwischen Objekten, Subj
 >Aufgrund der Unstimmigkeiten gewisser Begriffe beider Gruppen gab es Schwierigkeiten, bei der Zusammenführung von Begriffen. Dies war die zweite Herausforderung, auf die wir gestoßen sind.
 Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zustande kamen. Aufgrund persönlicher Situationen sei es wegen Vorlesungen, privater Angelegenheiten etc. war es nicht immer möglich, dass jedes einzelne Gruppenmitglied außerhalb der Vorlesung anwesend sein konnte. Daher wurde meist im kleinen Kreis an der gemeinsamen Tabelle gearbeitet bzw. innerhalb der eigenen Gruppe
 
-## 4.Versionen des Modells – was jeweils verändert wurde ?
+## 4. Versionen des Modells – was jeweils verändert wurde ?
 
 >Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1), die aus mehreren Reitern bestand. In der ersten Phase des Modells (Im Reiter: “alleTeileEinzeln”), existierte kein einheitlicher strukturierter Aufbau der Begriffe. Da nur, alle gesammelten Begriffe jedes einzelnen Gruppenmitglieds dort drin aufgeführt waren. 
 
@@ -97,7 +98,7 @@ Hierbei wurden sowohl, wie bereits in den vorherigen Abschnitten erwähnt, Oberb
   
 >Zusätzlich wurden  Definitionen für die Bezeichnungen nachgetragen, so das eine klare Begriffserklärungen vorhanden sind, um Homonym zu vermeiden.
    
-## 5.Vorgehen bei der Qualitätssicherung
+## 5. Vorgehen bei der Qualitätssicherung
 
 >In den ersten Schritten zur Qualitätssicherung, wurden alle Begriffe jedes einzelnen Gruppenmitgliedes in einer Excel Tabelle überführt, basieren auf den Recherchen des Handbuchs. Durch die Diskussionen innerhalb der Gruppe, konnten bereits einige Unstimmigkeiten und Fragen geklärt werden. Im folgenden Schritt wurden die Duplikate identifiziert und entfernt.
 Zudem mussten die Oberbegriffe und Unterbegriffe bestimmt werden. Hierbei wurde ein Modellierungssystem verwendet, um die logischen Zusammenhänge zu visualisieren und dies innerhalb der Gruppe zu erörtern. Unklarheiten bei gewissen Begriffen wurden im Handbuch erneut recherchiert und geprüft, um Begrifflichkeiten korrekt zu Kategorisieren. Anschließend wurden die Ergebnisse innerhalb der Gruppe vorgestellt und erörtert. 
@@ -125,8 +126,11 @@ Auch das Abstimmungsverfahren mit der anderen Gruppe war ein weiteres Problem, d
 Desweiteren war es hilfreich, dass die Zusammenführung beider Tabellen sich nicht als so schwierig erwies, als gedacht. Da eine schnelle Einigung mit der anderen Gruppe erzielt werden konnte.
 Dank der ganzen Feedbacks, iterativen Vorgehen und selbständige Arbeiten führten zu einem erfolgreichen Lernprozess, im Bereich der Modellierung einer Domäne.
 
-## 7 Quellen
+## 7. Anhang
+[Elvis_BPMN2](https://github.com/KaD3W3/gruppe1/blob/master/Picture/Elvis_BPMN2.png)
 
+## 8. Quellen
 
+[Elvis_HABU](https://github.com/KaD3W3/gruppe1/blob/master/Elvis_HABU_31032020.pdf)
 
 
