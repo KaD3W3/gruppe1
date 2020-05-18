@@ -14,6 +14,7 @@
 #### 5 Vorgehen bei der Qualitätssicherung
 
 #### 6 Sicht auf das Ergebnis: was ist gut, was hätte besser sein können?
+#### 7 Quellen
 
 ## 1.  die modellierte Domäne </b>
 
@@ -22,7 +23,7 @@
 >In diesem Projekt wurde als modellierte Domäne, das Elvis-Handbuch genommen. Das Elvis-System ist eine Software zur Verwaltung, Organisation sowie Bearbeitung von digitalen Assets (z.B. Texte, Medienelemente, Bilder) und stellt ein zentrales Archiv aller projektrelevanten Daten des Cornelsen Schulverlages dar. Mit dem Elvis-System können interne und externe Redakteure bzw. Mitarbeiter die Assets importieren, bearbeiten und verwalten.
 > Das Handbuch gliedert sich in 18 Kapitel und umfasst 180 Seiten, in denen die Nutzer durch textuelle Beschreibungen und Abbildungen viele Informationen finden. So wird im Handbuch die Installation, Nutzerverwaltung und Benutzeroberfläche präsentiert. Außerdem wird die Ordner- und Speicherstruktur im Elvis-System sowie vorhandene Elemente von der Software vorgestellt. Auch mögliche Funktionen, u.a. die Suchfunktion sowie Suchmuster, die von der Elvis-Software unterstützt werden, werden beschrieben.Weitere vorgestellte Funktionen sind, die verschiedenen Filter- und Sortierfunktionen (z.B. Volltextsuche, Suche mit Operatoren und komplexen Suchanfragen) sowie Verknüpfungs- und Referenzierungs-Funktionen. Im Handbuch werden auch verschiedene Metadaten, wie beispielsweise rechtliche, technische oder fachliche Metadaten zum jeweiligen Asset und Asset-Variationen, Asset-Versionen und Kollektionen beschrieben.
 
-## 2. Vorgehen beim Modellieren </>
+## 2. Vorgehen beim Modellieren
 
 >Um das Elvis-Handbuch zu modellieren, wurden verschiedene Schritte durchgeführt. 
 Zunächst wurde das Elvis-Handbuch unter den zwei Gruppen aufgeteilt. Unsere Gruppe beschäftigte sich mit den Abschnitten 1.1. bis 1.9. Die Abschnitte wurden innerhalb der Gruppe untereinander erneut aufgeteilt, sodass jedes Mitglied etwa 15 Seiten ausarbeiten sollte. Das Ziel von dieser Phase war es, wichtige Begriffe, Methoden sowie Funktionen aus dem Handbuch zu erfassen, die modelliert werden sollen. Diese wurden in eine Excel-Tabelle eingetragen. Außerdem wurden mögliche Duplikate entfernt. Mit dem Online-Tool MindMeister [mindmeister](https://www.mindmeister.com/de) und [MindVisualizer](https://de.freedownloadmanager.org/Windows-PC/MindVisualizer-Standard.html) wurde eine Begriffshierarchie grafisch visualisiert, umso Ober- und Unterbegriffe zu bestimmen.
@@ -54,7 +55,7 @@ Außerdem war es für einige Gruppenmitglieder schwierig zwischen Objekten, Subj
 >Aufgrund der Unstimmigkeiten gewisser Begriffe beider Gruppen gab es Schwierigkeiten, bei der Zusammenführung von Begriffen. Dies war die zweite Herausforderung, auf die wir gestoßen sind.
 Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zustande kamen. Aufgrund persönlicher Situationen sei es wegen Vorlesungen, privater Angelegenheiten etc. war es nicht immer möglich, dass jedes einzelne Gruppenmitglied außerhalb der Vorlesung anwesend sein konnte. Daher wurde meist im kleinen Kreis an der gemeinsamen Tabelle gearbeitet bzw. innerhalb der eigenen Gruppe
 
-## 4.Versionen des Modells – was jeweils verändert wurde?
+## 4.Versionen des Modells – was jeweils verändert wurde ?
 
 Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1), die aus mehreren Reitern bestand. In der ersten Phase des Modells (Im Reiter: “alleTeileEinzeln”), existierte kein einheitlicher strukturierter Aufbau der Begriffe. Da nur, alle gesammelten Begriffe jedes einzelnen Gruppenmitglieds dort drin aufgeführt waren. (siehe Abbildung 2)
 
@@ -65,6 +66,13 @@ Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1)
 
 <img src="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Erste%20Phase%20des%20Modells.PNG">
 <h3> Abbildung 2: Erste Phase des Modells </h3> 
+
+>Nachdem dieser Teilschritt vollzogen wurde, wurden im Reiter “zusammengefasst” all diese Begriffe in einer strukturierten Tabelle zusammengefasst und alphabetisch geordnet. (siehe Abbildung 3) Hierbei half die Alphabetische Sortierung zur Lokalisierung der Duplikate, die dann entfernt wurden. 
+Im nächsten Teilschritt der Tabellenstruktur (siehe Reiter “ausMindMeisterKopiert”), wurde wie bereits im zweiten Kapitel erwähnt, dass Mindmeister-Verfahren angewandt, um die Ober und- Unterstrukturen zu definieren, um so eine Hierarchiestruktur zu erzeugen. Im späteren Verlauf wurden die Synonyme der jeweiligen Begrifflichkeiten zugeordnet, sowie die Farblegende zur Hierarchien-Zuordnung der Begriffe inklusive ID festgelegt.
+
+ <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur.PNG">
+ <h3>Abbildung 3: Tabellenstruktur<h3>
+
 
   
 ## 5.Vorgehen bei der Qualitätssicherung
@@ -94,5 +102,8 @@ Auch das Abstimmungsverfahren mit der anderen Gruppe war ein weiteres Problem, d
 >Sehr positiv zu erwähnen ist, dass Prof. Sasaki jederzeit für die Problemstellung und Klarstellung herangezogen werden konnte. Auch das Cornelsen wöchentlich Feedbacks mitteilte, die zu relativ schnellen Lösung führten. 
 Desweiteren, dass die Zusammenführung beider Tabellen sich nicht als so schwierig erwies, als gedacht. Da eine schnelle Einigung mit der anderen Gruppe erzielt werden konnte.
 Dank der ganzen Feedbacks, iterativen Vorgehen und selbständige Arbeiten führten zu einem erfolgreichen Lernprozess, im Bereich der Modellierung einer Domäne.
+
+## 7 Quellen
+
 
 
