@@ -91,6 +91,8 @@ Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zust
  <img src ="https://cdn.discordapp.com/attachments/692412361101017088/712031935337070673/Unbenannt_Abbildung_5.png">
  
   <h3> Abbildung 5: Aktuelle Tabellenstruktur</h3> 
+  
+>Zusätzlich wurden  Definitionen für die Bezeichnungen nachgetragen, so das eine klare Begriffserklärung vorhanden ist, um Homonym zu vermeiden
    
 ## 5.Vorgehen bei der Qualitätssicherung
 
@@ -121,6 +123,7 @@ Desweiteren, dass die Zusammenführung beider Tabellen sich nicht als so schwier
 Dank der ganzen Feedbacks, iterativen Vorgehen und selbständige Arbeiten führten zu einem erfolgreichen Lernprozess, im Bereich der Modellierung einer Domäne.
 
 ## 7 Quellen
+
 
 
 
