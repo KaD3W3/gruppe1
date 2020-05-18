@@ -57,7 +57,7 @@ Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zust
 
 ## 4.Versionen des Modells – was jeweils verändert wurde ?
 
-Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1), die aus mehreren Reitern bestand. In der ersten Phase des Modells (Im Reiter: “alleTeileEinzeln”), existierte kein einheitlicher strukturierter Aufbau der Begriffe. Da nur, alle gesammelten Begriffe jedes einzelnen Gruppenmitglieds dort drin aufgeführt waren. 
+>Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1), die aus mehreren Reitern bestand. In der ersten Phase des Modells (Im Reiter: “alleTeileEinzeln”), existierte kein einheitlicher strukturierter Aufbau der Begriffe. Da nur, alle gesammelten Begriffe jedes einzelnen Gruppenmitglieds dort drin aufgeführt waren. 
 
 <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Excel-Datei.PNG" >
 
@@ -77,14 +77,14 @@ Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1)
    
  <h3>Abbildung 3: Tabellenstruktur<h3>
   
-Im nächsten Teilschritt der Tabellenstruktur (siehe Reiter “ausMindMeisterKopiert”), wurde wie bereits im zweiten Kapitel erwähnt, dass Mindmeister-Verfahren angewandt, um die Ober und- Unterstrukturen zu definieren, um so eine Hierarchiestruktur zu erzeugen. Im späteren Verlauf wurden die Synonyme der jeweiligen Begrifflichkeiten zugeordnet, sowie die Farblegende zur Hierarchien-Zuordnung der Begriffe inklusive ID festgelegt.
+>Im nächsten Teilschritt der Tabellenstruktur (siehe Reiter “ausMindMeisterKopiert”), wurde wie bereits im zweiten Kapitel erwähnt, dass Mindmeister-Verfahren angewandt, um die Ober und- Unterstrukturen zu definieren, um so eine Hierarchiestruktur zu erzeugen. Im späteren Verlauf wurden die Synonyme der jeweiligen Begrifflichkeiten zugeordnet, sowie die Farblegende zur Hierarchien-Zuordnung der Begriffe inklusive ID festgelegt.
   
- Durch die Feedbacks seitens Cornelsen, Prof. Sasaki und der anderen Gruppe, wurden dann gewisse Unterbegriffe neu zugeordnet bzw. Oberbegriffe neu ausgerichtet. Dieser Prozess ist im Reiter “MindMeisterNachFeedback” zu sehen(siehe Abbildung 4). 
+>Durch die Feedbacks seitens Cornelsen, Prof. Sasaki und der anderen Gruppe, wurden dann gewisse Unterbegriffe neu zugeordnet bzw. Oberbegriffe neu ausgerichtet. Dieser Prozess ist im Reiter “MindMeisterNachFeedback” zu sehen(siehe Abbildung 4). 
 
  <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur%20%2C%2CMindMeisterNachFeedback.PNG">
  
  
-Im letzten Schritt wurde eine neue Excel-Datei angelegt, die das Zusammenführen beider Tabellen beinhalten (siehe Abbildung 5).
+>Im letzten Schritt wurde eine neue Excel-Datei angelegt, die das Zusammenführen beider Tabellen beinhalten (siehe Abbildung 5).
  
  >Hierbei wurden sowohl, wie bereits in den vorherigen Abschnitten erwähnt, Oberbegriffe und Unterbegriffe neu zugeordnet bzw. neu ausformuliert. Ebenfalls in diesem Schritt, mussten gewisse Duplikate lokalisiert und entfernt werden, die sich in beiden Tabellen befanden. Es musste jedoch ein baldiger Schlussstrich gezogen werden, da sonst noch eine endlose Zeit vergehen könnte, für die optimale Struktur der Tabelle.
 
