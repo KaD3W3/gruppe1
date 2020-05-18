@@ -78,7 +78,7 @@ Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zust
    
  <h3>Abbildung 3: Tabellenstruktur <h3>
   
-Im nächsten Teilschritt der Tabellenstruktur (siehe Reiter “ausMindMeisterKopiert”), wurde wie bereits im zweiten Kapitel erwähnt, dass Mindmeister-Verfahren angewandt, um die Ober und- Unterstrukturen zu definieren, um so eine Hierarchiestruktur zu erzeugen. Im späteren Verlauf wurden die Synonyme der jeweiligen Begrifflichkeiten zugeordnet, sowie die Farblegende zur Hierarchien-Zuordnung der Begriffe inklusive ID festgelegt. 
+>Im nächsten Teilschritt der Tabellenstruktur (siehe Reiter “ausMindMeisterKopiert”), wurde wie bereits im zweiten Kapitel erwähnt, dass Mindmeister-Verfahren angewandt, um die Ober und- Unterstrukturen zu definieren, um so eine Hierarchiestruktur zu erzeugen. Im späteren Verlauf wurden die Synonyme der jeweiligen Begrifflichkeiten zugeordnet, sowie die Farblegende zur Hierarchien-Zuordnung der Begriffe inklusive ID festgelegt. 
 Durch die Feedbacks seitens Cornelsen, Prof. Sasaki und der anderen Gruppe, wurden dann gewisse Unterbegriffe neu zugeordnet bzw. Oberbegriffe neu ausgerichtet. Dieser Prozess ist im Reiter “MindMeisterNachFeedback” zu sehen (siehe Abbildung 4). 
 
 
