@@ -75,8 +75,10 @@ Im nächsten Teilschritt der Tabellenstruktur (siehe Reiter “ausMindMeisterKop
 
  <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur.PNG">
  <h3>Abbildung 3: Tabellenstruktur<h3>
+  
+> Durch die Feedbacks seitens Cornelsen, Prof. Sasaki und der anderen Gruppe, wurden dann gewisse Unterbegriffe neu zugeordnet bzw. Oberbegriffe neu ausgerichtet. Dieser Prozess ist im Reiter “MindMeisterNachFeedback” zu sehen. (siehe Abbildung 4)
 
-
+ <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur%20%2C%2CMindMeisterNachFeedback.PNG">
   
 ## 5.Vorgehen bei der Qualitätssicherung
 
