@@ -22,6 +22,7 @@
 
 
 <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Elvis%20(Elvis-Thesaurus).bmp" >
+<h3> Elvis-Thesaurus </h3> 
 
 
 >In diesem Projekt wurde als modellierte Domäne, das Elvis-Handbuch genommen. Das Elvis-System ist eine Software zur Verwaltung, Organisation sowie Bearbeitung von digitalen Assets (z.B. Texte, Medienelemente, Bilder) und stellt ein zentrales Archiv aller projektrelevanten Daten des Cornelsen Schulverlages dar. Mit dem Elvis-System können interne und externe Redakteure bzw. Mitarbeiter die Assets importieren, bearbeiten und verwalten.
