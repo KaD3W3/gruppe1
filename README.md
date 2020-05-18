@@ -60,7 +60,7 @@ Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zust
 Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1), die aus mehreren Reitern bestand.
 
 
-<img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur.PNG" >
+<img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Excel-Datei.PNG" >
 
 <h3> Abbildung 1: Excel-Datei </h3> 
 
