@@ -106,14 +106,14 @@ Die größte Hürde der Qualitätssicherung, war das Zusammenführen der beiden 
 
 
 
- ## 5. [Unseres Sicht auf das Ergebnis](https://github.com/KaD3W3/gruppe1/edit/master/README.md)
+ ## 6. Unseres Sicht auf das Ergebnis
 
  > **Enterprise Knowledge Engineerin von Pr. Sasaki**, hättest, als Ziele:  Das Lernen der Modellierung in einem Projekt. Dafür sind verschiedene Teilnehmer mit Verschiedene Ursprünge, Erkenntnisse, Motivation und Vision in einem gemeinsamen Projekt zusammengebracht. Diese Symbiose, von Diverse Element, durch Diskussionen hat uns nach einem einzigen Ergebnis geführt. Die Frage wäre ob, dass Ergebnis Perfekt ist. In der Modellierung jedes Modell ist richtig, die Frage ist, entsprechen die Anforderungen?
 >Was Uns gefallen hat, ist die Möglichkeit, einen Effektive und Wichtige Feedback Seites Cornelsen zu kriegen, Die Gelegenheit mit der Cornelsen Mitarbeiter auszutauschen.
 Noch Pr. Sasaki au jeder Moment für uns verfügbar war. Jeder Teilnehmer hat einem Entscheidenden Rolle gespielt, dazu hat jeder Idee uns noch mehr am Licht gebracht.
 Das Ergebnis ist nach unserem Gedanken und Erkenntnisse gut, aber es hättet besser gewesen, fall uns die Software zu Verfügung gestanden hat. Die Nutzung des Elvis Software hättet uns mehr zu Erfahrung gebracht, als was man bis jetzt denkt.
 
-## 6. Sicht auf das Ergebnis: was ist gut, was hätte besser sein können?
+
 
 **Negativ:**
 >Aufgrund eines fehlenden normierten Verfahrens zur Modellierung der Domäne, gab es einen zu großen Spielraum, in denen man selbst Festlegen konnte, wie gewisse Begrifflichkeiten zuzuordnen sind. Was auch zu den Unstimmigkeiten zwischen den beiden Gruppen führten, als die Tabellen zusammengefasst wurden. Nur dank der Firma Cornelsen und Prof. Sasaki, war es möglich gewissen Kritikpunkte und Unklarheiten zu klären.
