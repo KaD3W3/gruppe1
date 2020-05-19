@@ -17,7 +17,7 @@
 #### 7 Anhang
 #### 8 Quellen
 
-## 1.  [Die modellierte Domäne](https://github.com/KaD3W3/gruppe1/edit/master/README.md) 
+## 1.  Die modellierte Domäne 
 
 
 
@@ -28,7 +28,7 @@
 >In diesem Projekt wurde als modellierte Domäne, das Elvis-Handbuch genommen. Das Elvis-System ist eine Software zur Verwaltung, Organisation sowie Bearbeitung von digitalen Assets (z.B. Texte, Medienelemente, Bilder) und stellt ein zentrales Archiv aller projektrelevanten Daten des Cornelsen Schulverlages dar. Mit dem Elvis-System können interne und externe Redakteure bzw. Mitarbeiter die Assets importieren, bearbeiten und verwalten.
 > Das Handbuch gliedert sich in 18 Kapitel und umfasst 180 Seiten, in denen die Nutzer durch textuelle Beschreibungen und Abbildungen viele Informationen finden. In der Abb. 0 ist die Bsp. Vorschau des Thesaurus zu sehen und dessen  umfangreichen und Wichtigen Begriffssammlungen des Handbuchs aufgefasst. So wird im Handbuch die Installation, Nutzerverwaltung und Benutzeroberfläche präsentiert. Außerdem wird die Ordner- und Speicherstruktur im Elvis-System sowie vorhandene Elemente von der Software vorgestellt. Auch mögliche Funktionen, u.a. die Suchfunktion sowie Suchmuster, die von der Elvis-Software unterstützt werden, werden beschrieben.Weitere vorgestellte Funktionen sind, die verschiedenen Filter- und Sortierfunktionen (z.B. Volltextsuche, Suche mit Operatoren und komplexen Suchanfragen) sowie Verknüpfungs- und Referenzierungs-Funktionen. Im Handbuch werden auch verschiedene Metadaten, wie beispielsweise rechtliche, technische oder fachliche Metadaten zum jeweiligen Asset und Asset-Variationen, Asset-Versionen und Kollektionen beschrieben.
 
-## 2. [Vorgehen beim Modellieren](https://github.com/KaD3W3/gruppe1/edit/master/README.md)
+## 2. Vorgehen beim Modellieren
 
 >Um das Elvis-Handbuch zu modellieren, wurden verschiedene Schritte durchgeführt. 
 Zunächst wurde das Elvis-Handbuch unter den zwei Gruppen aufgeteilt. Unsere Gruppe beschäftigte sich mit den Abschnitten 1.1. bis 1.9. Die Abschnitte wurden innerhalb der Gruppe untereinander erneut aufgeteilt, sodass jedes Mitglied etwa 15 Seiten ausarbeiten sollte. Das Ziel von dieser Phase war es, wichtige Begriffe, Methoden sowie Funktionen aus dem Handbuch zu erfassen, die modelliert werden sollen. Diese wurden in eine Excel-Tabelle eingetragen. Außerdem wurden mögliche Duplikate entfernt. Mit dem Online-Tool MindMeister [mindmeister](https://www.mindmeister.com/de) und [MindVisualizer](https://de.freedownloadmanager.org/Windows-PC/MindVisualizer-Standard.html) wurde eine Begriffshierarchie grafisch visualisiert, umso Ober- und Unterbegriffe zu bestimmen.
@@ -40,7 +40,7 @@ Zunächst wurde das Elvis-Handbuch unter den zwei Gruppen aufgeteilt. Unsere Gru
 > Dadurch konnten auch die Zusammenhänge zwischen den einzelnen Begriffen festgestellt werden. Im nächsten Schritt wurden im Elvis-Handbuch nach Synonymen recherchiert für die einzelnen Begriffe. Ebenfalls wurden anhand der Feedbacks seitens Prof. Sasaki, der Firma Cornelsen und der anderen Gruppe einige Korrekturen und Modifizierungen der Excel-Tabelle vorgenommen. Beispielsweise das Definieren von neuen Oberbegriffen oder eine neue Zuteilung der Unterbegriffe .Im späteren Verlauf des Projekts wurde das gesamte Ergebnis gemeinsam mit dem Ergebnis der anderen Gruppe in einer Excel-Datei zusammengeführt.
 > In dieser Phase wurden ebenfalls die vorkommenden Duplikate herausgefiltert und die Begriffe der beiden Gruppen wurden in eine einheitliche Hierarchie eingeordnet. Abschließend wurde eine ID-Nummerierung der jeweiligen Bereiche definiert. Alle diese Teilschritte wurden durch mehrere Treffen bzw. Meetings ausgearbeitet.
 
-##  3. [Schwierigkeiten](https://github.com/KaD3W3/gruppe1/edit/master/README.md) 
+##  3. Schwierigkeiten
 
 >In diesem Teil werden die Schwierigkeiten beschreiben, auf die unsere Gruppe im Verlauf des Projekts stieß und die in zwei Hauptkategorien unterteilt wurden: Modellierungs-Optionen und organisatorische Herausforderungen.
 
@@ -60,7 +60,7 @@ Außerdem war es für einige Gruppenmitglieder schwierig zwischen Objekten, Subj
 >Aufgrund der Unstimmigkeiten gewisser Begriffe beider Gruppen gab es Schwierigkeiten, bei der Zusammenführung von Begriffen. Dies war die zweite Herausforderung, auf die wir gestoßen sind.
 Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zustande kamen. Aufgrund persönlicher Situationen sei es wegen Vorlesungen, privater Angelegenheiten etc. war es nicht immer möglich, dass jedes einzelne Gruppenmitglied außerhalb der Vorlesung anwesend sein konnte. Daher wurde meist im kleinen Kreis an der gemeinsamen Tabelle gearbeitet bzw. innerhalb der eigenen Gruppe
 
-## 4. [Versionen des Modells – was jeweils verändert wurde ?](https://github.com/KaD3W3/gruppe1/edit/master/README.md)
+## 4. Versionen des Modells – was jeweils verändert wurde ?
 
 >Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1), die aus mehreren Reitern bestand. In der ersten Phase des Modells (Im Reiter: “alleTeileEinzeln”), existierte kein einheitlicher strukturierter Aufbau der Begriffe. Da nur, alle gesammelten Begriffe jedes einzelnen Gruppenmitglieds dort drin aufgeführt waren. 
 
@@ -97,7 +97,7 @@ Hierbei wurden sowohl, wie bereits in den vorherigen Abschnitten erwähnt, Oberb
   
 >Zusätzlich wurden  Definitionen für die Bezeichnungen nachgetragen, so das eine klare Begriffserklärungen vorhanden sind, um Homonym zu vermeiden.
    
-## 5. [Vorgehen bei der Qualitätssicherung](https://github.com/KaD3W3/gruppe1/edit/master/README.md)
+## 5. Vorgehen bei der Qualitätssicherung
 
 >In den ersten Schritten zur Qualitätssicherung, wurden alle Begriffe jedes einzelnen Gruppenmitgliedes in einer Excel Tabelle überführt, basieren auf den Recherchen des Handbuchs. Durch die Diskussionen innerhalb der Gruppe, konnten bereits einige Unstimmigkeiten und Fragen geklärt werden. Im folgenden Schritt wurden die Duplikate identifiziert und entfernt.
 Zudem mussten die Oberbegriffe und Unterbegriffe bestimmt werden. Hierbei wurde ein Modellierungssystem verwendet, um die logischen Zusammenhänge zu visualisieren und dies innerhalb der Gruppe zu erörtern. Unklarheiten bei gewissen Begriffen wurden im Handbuch erneut recherchiert und geprüft, um Begrifflichkeiten korrekt zu Kategorisieren. Anschließend wurden die Ergebnisse innerhalb der Gruppe vorgestellt und erörtert. 
