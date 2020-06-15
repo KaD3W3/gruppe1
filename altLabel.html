@@ -69,7 +69,7 @@
     },
     mounted () {
       sparqlQuery ="PREFIX skos: <http://www.w3.org/2004/02/skos/core#> SELECT  ?altLabel WHERE{ ?x skos:altLabel ?altLabel.} ORDER BY ?altLabel"
-      completeQuery = "kmlupin.herokuapp.com/ds/query?query=" + encodeURIComponent(sparqlQuery) + "&output=json"
+      completeQuery = "https://kmlupin.herokuapp.com/ds/query?query=" + encodeURIComponent(sparqlQuery) + "&output=json"
       axios.get(completeQuery).
       then(response => (
         this.processResponse(response)
