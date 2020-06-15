@@ -68,7 +68,7 @@
       }
     },
     mounted () {
-      sparqlQuery ="PREFIX skos: <http://www.w3.org/2004/02/skos/core#> SELECT  ?notation ?prefLabel ?altLabel ?definition WHERE{?x skos:notation ?notation. OPTIONAL {?x skos:prefLabel ?prefLabel} OPTIONAL {?x skos:altLabel ?altLabel} OPTIONAL {?x skos:definition ?definition}} ORDER BY ?notation"
+      sparqlQuery ="PREFIX skos: <http://www.w3.org/2004/02/skos/core#> SELECT  ?notation ?prefLabel ?definition ?altLabel WHERE{?x skos:notation ?notation. OPTIONAL {?x skos:prefLabel ?prefLabel} OPTIONAL {?x skos:altLabel ?altLabel} OPTIONAL {?x skos:definition ?definition}} ORDER BY ?notation"
       completeQuery = "http://kmlupin.herokuapp.com/ds/query?query=" + encodeURIComponent(sparqlQuery) + "&output=json"
       axios.get(completeQuery).
       then(response => (
