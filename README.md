@@ -61,31 +61,25 @@ Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zust
 <h3> Abbildung 2: Excel-Datei </h3> 
 <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Excel-Datei.PNG" >
 
->Nachdem dieser Teilschritt vollzogen wurde, wurden im Reiter “zusammengefasst” all diese Begriffe in einer strukturierten Tabelle zusammengefasst und alphabetisch geordnet (siehe Abbildung 2). Hierbei half die Alphabetische Sortierung zur Lokalisierung der Duplikate, die dann entfernt wurden. 
+>Nachdem dieser Teilschritt vollzogen wurde, wurden im Reiter “zusammengefasst” all diese Begriffe in einer strukturierten Tabelle zusammengefasst und alphabetisch geordnet. Hierbei half die Alphabetische Sortierung zur Lokalisierung der Duplikate, die dann entfernt wurden. 
 
-<img src="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Erste%20Phase%20des%20Modells.PNG">
-<h3> Abbildung 2: Erste Phase des Modells </h3> 
-  
-   
 >Im nächsten Teilschritt der Tabellenstruktur (siehe Reiter ausMindMeisterKopiert), wurde wie bereits im zweiten Kapitel erwähnt, dass Mindmeister-Verfahren angewandt, um die Ober und- Unterstrukturen zu definieren, um so eine Hierarchiestruktur zu erzeugen (siehe Abbildung 3).
-    
- <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur.PNG">   
+ 
  <h3> Abbildung 3: Tabellenstruktur </h3>
-  
->Im späteren Verlauf wurden die Synonyme der jeweiligen Begrifflichkeiten zugeordnet, sowie die Farblegende zur Hierarchien-Zuordnung der Begriffe inklusive ID festgelegt. 
-Durch die Feedbacks seitens Cornelsen, Prof. Sasaki und der anderen Gruppe, wurden dann gewisse Unterbegriffe neu zugeordnet bzw. Oberbegriffe neu ausgerichtet. Dieser Prozess ist im Reiter “MindMeisterNachFeedback” zu sehen (siehe Abbildung 4). 
+ <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur.PNG">   
 
+>Im späteren Verlauf wurden die Synonyme der jeweiligen Begrifflichkeiten zugeordnet, sowie die Farblegende zur Hierarchien-Zuordnung der Begriffe inklusive ID festgelegt. Durch die Feedbacks seitens Cornelsen, Prof. Sasaki und der anderen Gruppe, wurden dann gewisse Unterbegriffe neu zugeordnet bzw. Oberbegriffe neu ausgerichtet. Dieser Prozess ist im Reiter “MindMeisterNachFeedback” zu sehen (siehe Abbildung 4). 
 
+<h3> Abbildung 4: Tabellenstruktur ,,MindMeisterNachFeedback" </h3> 
  <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur%20%2C%2CMindMeisterNachFeedback.PNG">
- 
- <h3> Abbildung 4: Tabellenstruktur ,,MindMeisterNachFeedback“ </h3> 
- 
+  
 >Im letzten Schritt wurde eine neue Excel-Datei angelegt, die das Zusammenführen beider Tabellen beinhalten (siehe Abbildung 5).
 Hierbei wurden sowohl, wie bereits in den vorherigen Abschnitten erwähnt, Oberbegriffe und Unterbegriffe neu zugeordnet bzw. neu ausformuliert. Ebenfalls in diesem Schritt, mussten gewisse Duplikate lokalisiert und entfernt werden, die sich in beiden Tabellen befanden. Es musste jedoch ein baldiger Schlussstrich gezogen werden, da sonst noch eine endlose Zeit vergehen könnte, für die optimale Struktur der Tabelle.
 
+<h3> Abbildung 5: Aktuelle Tabellenstruktur </h3> 
  <img src ="https://cdn.discordapp.com/attachments/692412361101017088/712031935337070673/Unbenannt_Abbildung_5.png">
  
-  <h3> Abbildung 5: Aktuelle Tabellenstruktur </h3> 
+  
   
 >Zusätzlich wurden  Definitionen für die Bezeichnungen nachgetragen, so das eine klare Begriffserklärungen vorhanden sind, um Homonym zu vermeiden.
    
