@@ -107,8 +107,8 @@ Das Positive war, dass die Aufgaben eigenständig ausgeführt wurden, Erfahrung 
 
 ## 7. Anhang
 
-[Elvis_BPMN2](https://github.com/KaD3W3/gruppe1/blob/master/Picture/Elvis_BPMN2.png)
-[Poster](https://github.com/KaD3W3/gruppe1/blob/master/Poster_Leipziger_Semantic_Web%20Tag.pdf)
+>[Elvis_BPMN2](https://github.com/KaD3W3/gruppe1/blob/master/Picture/Elvis_BPMN2.png)
+>[Poster](https://github.com/KaD3W3/gruppe1/blob/master/Poster_Leipziger_Semantic_Web%20Tag.pdf)
 ## 8. Quellen
 
 [Elvis_HABU](https://github.com/KaD3W3/gruppe1/blob/master/Elvis_HABU_31032020.pdf)
