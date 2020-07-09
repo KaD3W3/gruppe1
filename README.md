@@ -17,6 +17,7 @@
 #### 7 Anhang
 #### 8 Quellen
 #### 9 Webapp
+#### 10 Poster
 
 ## 1.  Die modellierte Domäne 
 
@@ -115,5 +116,8 @@ Das Positive war, dass die Aufgaben eigenständig ausgeführt wurden, Erfahrung 
 ## 9. Webapp
 
 [Webapp](https://kad3w3.github.io/gruppe1/)
+
+## 10. Poster
+[Poster](https://github.com/KaD3W3/gruppe1/blob/master/Poster_Leipziger_Semantic_Web%20Tag.pdf)
 
 
