@@ -104,15 +104,15 @@ Die größte Hürde der Qualitätssicherung, war das Zusammenführen der beiden 
 Das Positive war, dass die Aufgaben eigenständig ausgeführt wurden, Erfahrung durch das Learning by doing gesammelt z.B. Umgang mit Sparql, das Aufsetzen eines Heroku Servers, Programmierung mit Vue.js und den vollständigen Prozessen von der Taxonomie bis zur Erstellung der Webapp kennengelernt.
 
 
-## 7. [Anhang]
+## 7. Anhang
 
 [Elvis_BPMN2](https://github.com/KaD3W3/gruppe1/blob/master/Picture/Elvis_BPMN2.png)
 
-## 8. [Quellen]
+## 8. Quellen
 
 [Elvis_HABU](https://github.com/KaD3W3/gruppe1/blob/master/Elvis_HABU_31032020.pdf)
 
-## 9. [Webapp]
+## 9. Webapp
 
 [Webapp](https://kad3w3.github.io/gruppe1/)
 
