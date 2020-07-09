@@ -24,8 +24,6 @@
 
 ## 2. Vorgehen beim Modellieren
 
-
-
 >Um das Elvis-Handbuch zu modellieren, wurden verschiedene Schritte durchgeführt. 
 Zunächst wurde das Elvis-Handbuch unter den zwei Gruppen aufgeteilt. Unsere Gruppe beschäftigte sich mit den Abschnitten 1.1. bis 1.9. Die Abschnitte wurden innerhalb der Gruppe untereinander erneut aufgeteilt, sodass jedes Mitglied etwa 15 Seiten ausarbeiten sollte. Das Ziel von dieser Phase war es, wichtige Begriffe, Methoden sowie Funktionen aus dem Handbuch zu erfassen, die modelliert werden sollen. Diese wurden in eine Excel-Tabelle eingetragen. Außerdem wurden mögliche Duplikate entfernt. Mit dem Online-Tool MindMeister [mindmeister](https://www.mindmeister.com/de) und [MindVisualizer](https://de.freedownloadmanager.org/Windows-PC/MindVisualizer-Standard.html) wurde eine Begriffshierarchie grafisch visualisiert, umso Ober- und Unterbegriffe zu bestimmen.
 
@@ -58,12 +56,10 @@ Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zust
 
 ## 4. Versionen des Modells – was jeweils verändert wurde ?
 
->Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 1), die aus mehreren Reitern bestand. In der ersten Phase des Modells (Im Reiter: “alleTeileEinzeln”), existierte kein einheitlicher strukturierter Aufbau der Begriffe. Da nur, alle gesammelten Begriffe jedes einzelnen Gruppenmitglieds dort drin aufgeführt waren. 
+>Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 2), die aus mehreren Reitern bestand. In der ersten Phase des Modells (Im Reiter: “alleTeileEinzeln”), existierte kein einheitlicher strukturierter Aufbau der Begriffe. Da nur, alle gesammelten Begriffe jedes einzelnen Gruppenmitglieds dort drin aufgeführt waren. 
 
+<h3> Abbildung 2: Excel-Datei </h3> 
 <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Excel-Datei.PNG" >
-
-<h3> Abbildung 1: Excel-Datei </h3> 
-
 
 >Nachdem dieser Teilschritt vollzogen wurde, wurden im Reiter “zusammengefasst” all diese Begriffe in einer strukturierten Tabelle zusammengefasst und alphabetisch geordnet (siehe Abbildung 2). Hierbei half die Alphabetische Sortierung zur Lokalisierung der Duplikate, die dann entfernt wurden. 
 
