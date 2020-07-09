@@ -7,8 +7,8 @@
 #### 2 Ihr Vorgehen beim Modellieren
 
 #### 3 Schwierigkeiten
-##### 3.1  Herausforderungen
-#####  3.2 Herausforderungen
+##### 3.1  Modellierungs-Optionen
+##### 3.2  Organisatorische Herausforderungen
 
 #### 4 Versionen des Modells – was jeweils verändert wurde?   
 #### 5 Vorgehen bei der Qualitätssicherung
