@@ -22,11 +22,11 @@
 
 
 
- [Abbildung 0: Elvis-Thesaurus]
+ <h3> Abbildung 1: Elvis-Thesaurus </h3> 
 <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/ElvisThesaurus1.jpg" > 
 
 >In diesem Projekt wurde als modellierte Domäne, das Elvis-Handbuch genommen. Das Elvis-System ist eine Software zur Verwaltung, Organisation sowie Bearbeitung von digitalen Assets (z.B. Texte, Medienelemente, Bilder) und stellt ein zentrales Archiv aller projektrelevanten Daten des Cornelsen Schulverlages dar. Mit dem Elvis-System können interne und externe Redakteure bzw. Mitarbeiter die Assets importieren, bearbeiten und verwalten.
-> Das Handbuch gliedert sich in 18 Kapitel und umfasst 180 Seiten, in denen die Nutzer durch textuelle Beschreibungen und Abbildungen viele Informationen finden. In der Abb. 0 ist die Bsp. Vorschau des Thesaurus zu sehen und dessen  umfangreichen und Wichtigen Begriffssammlungen des Handbuchs aufgefasst. So wird im Handbuch die Installation, Nutzerverwaltung und Benutzeroberfläche präsentiert. Außerdem wird die Ordner- und Speicherstruktur im Elvis-System sowie vorhandene Elemente von der Software vorgestellt. Auch mögliche Funktionen, u.a. die Suchfunktion sowie Suchmuster, die von der Elvis-Software unterstützt werden, werden beschrieben.Weitere vorgestellte Funktionen sind, die verschiedenen Filter- und Sortierfunktionen (z.B. Volltextsuche, Suche mit Operatoren und komplexen Suchanfragen) sowie Verknüpfungs- und Referenzierungs-Funktionen. Im Handbuch werden auch verschiedene Metadaten, wie beispielsweise rechtliche, technische oder fachliche Metadaten zum jeweiligen Asset und Asset-Variationen, Asset-Versionen und Kollektionen beschrieben.
+> Das Handbuch gliedert sich in 18 Kapitel und umfasst 180 Seiten, in denen die Nutzer durch textuelle Beschreibungen und Abbildungen viele Informationen finden. In der Abb. 1 ist die Bsp. Vorschau des Thesaurus zu sehen und dessen  umfangreichen und Wichtigen Begriffssammlungen des Handbuchs aufgefasst. So wird im Handbuch die Installation, Nutzerverwaltung und Benutzeroberfläche präsentiert. Außerdem wird die Ordner- und Speicherstruktur im Elvis-System sowie vorhandene Elemente von der Software vorgestellt. Auch mögliche Funktionen, u.a. die Suchfunktion sowie Suchmuster, die von der Elvis-Software unterstützt werden, werden beschrieben.Weitere vorgestellte Funktionen sind, die verschiedenen Filter- und Sortierfunktionen (z.B. Volltextsuche, Suche mit Operatoren und komplexen Suchanfragen) sowie Verknüpfungs- und Referenzierungs-Funktionen. Im Handbuch werden auch verschiedene Metadaten, wie beispielsweise rechtliche, technische oder fachliche Metadaten zum jeweiligen Asset und Asset-Variationen, Asset-Versionen und Kollektionen beschrieben.
 
 ## 2. Vorgehen beim Modellieren
 
