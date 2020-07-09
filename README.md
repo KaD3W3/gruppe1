@@ -19,22 +19,16 @@
 
 ## 1.  Die modellierte Domäne 
 
-
-
-
- <h3> Abbildung 1: Elvis-Thesaurus </h3> 
-<img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/ElvisThesaurus1.jpg" > 
-
 >In diesem Projekt wurde als modellierte Domäne, das Elvis-Handbuch genommen. Das Elvis-System ist eine Software zur Verwaltung, Organisation sowie Bearbeitung von digitalen Assets (z.B. Texte, Medienelemente, Bilder) und stellt ein zentrales Archiv aller projektrelevanten Daten des Cornelsen Schulverlages dar. Mit dem Elvis-System können interne und externe Redakteure bzw. Mitarbeiter die Assets importieren, bearbeiten und verwalten.
-> Das Handbuch gliedert sich in 18 Kapitel und umfasst 180 Seiten, in denen die Nutzer durch textuelle Beschreibungen und Abbildungen viele Informationen finden. In der Abb. 1 ist die Bsp. Vorschau des Thesaurus zu sehen und dessen  umfangreichen und Wichtigen Begriffssammlungen des Handbuchs aufgefasst. So wird im Handbuch die Installation, Nutzerverwaltung und Benutzeroberfläche präsentiert. Außerdem wird die Ordner- und Speicherstruktur im Elvis-System sowie vorhandene Elemente von der Software vorgestellt. Auch mögliche Funktionen, u.a. die Suchfunktion sowie Suchmuster, die von der Elvis-Software unterstützt werden, werden beschrieben.Weitere vorgestellte Funktionen sind, die verschiedenen Filter- und Sortierfunktionen (z.B. Volltextsuche, Suche mit Operatoren und komplexen Suchanfragen) sowie Verknüpfungs- und Referenzierungs-Funktionen. Im Handbuch werden auch verschiedene Metadaten, wie beispielsweise rechtliche, technische oder fachliche Metadaten zum jeweiligen Asset und Asset-Variationen, Asset-Versionen und Kollektionen beschrieben.
+> Das Handbuch gliedert sich in 18 Kapitel und umfasst 180 Seiten, in denen die Nutzer durch textuelle Beschreibungen und Abbildungen viele Informationen finden.  So wird im Handbuch die Installation, Nutzerverwaltung und Benutzeroberfläche präsentiert. Außerdem wird die Ordner- und Speicherstruktur im Elvis-System sowie vorhandene Elemente von der Software vorgestellt. Auch mögliche Funktionen, u.a. die Suchfunktion sowie Suchmuster, die von der Elvis-Software unterstützt werden, werden beschrieben. Weitere vorgestellte Funktionen sind, die verschiedenen Filter- und Sortierfunktionen (z.B. Volltextsuche, Suche mit Operatoren und komplexen Suchanfragen) sowie Verknüpfungs- und Referenzierungs-Funktionen. Im Handbuch werden auch verschiedene Metadaten, wie beispielsweise rechtliche, technische oder fachliche Metadaten zum jeweiligen Asset und Asset-Variationen, Asset-Versionen und Kollektionen beschrieben.
 
 ## 2. Vorgehen beim Modellieren
 
->Um das Elvis-Handbuch zu modellieren, wurden verschiedene Schritte durchgeführt. 
+<h3> Abbildung 1: Elvis-Thesaurus </h3> 
+<img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/ElvisThesaurus1.jpg" > 
+
+>Um das Elvis-Handbuch zu modellieren, wurden verschiedene Schritte durchgeführt. In der Abb. 1 ist die Bsp. Vorschau des Thesaurus zu sehen und dessen  umfangreichen und Wichtigen Begriffssammlungen des Handbuchs aufgefasst.
 Zunächst wurde das Elvis-Handbuch unter den zwei Gruppen aufgeteilt. Unsere Gruppe beschäftigte sich mit den Abschnitten 1.1. bis 1.9. Die Abschnitte wurden innerhalb der Gruppe untereinander erneut aufgeteilt, sodass jedes Mitglied etwa 15 Seiten ausarbeiten sollte. Das Ziel von dieser Phase war es, wichtige Begriffe, Methoden sowie Funktionen aus dem Handbuch zu erfassen, die modelliert werden sollen. Diese wurden in eine Excel-Tabelle eingetragen. Außerdem wurden mögliche Duplikate entfernt. Mit dem Online-Tool MindMeister [mindmeister](https://www.mindmeister.com/de) und [MindVisualizer](https://de.freedownloadmanager.org/Windows-PC/MindVisualizer-Standard.html) wurde eine Begriffshierarchie grafisch visualisiert, umso Ober- und Unterbegriffe zu bestimmen.
-
-
-
 
  >Die ermittelte Struktur, wurde anschließend in die Excel-Tabelle übernommen. Um eine Hierarchie darzustellen, wurden für jede Ebene unterschiedliche Farben verwendet.
 > Dadurch konnten auch die Zusammenhänge zwischen den einzelnen Begriffen festgestellt werden. Im nächsten Schritt wurden im Elvis-Handbuch nach Synonymen recherchiert für die einzelnen Begriffe. Ebenfalls wurden anhand der Feedbacks seitens Prof. Sasaki, der Firma Cornelsen und der anderen Gruppe einige Korrekturen und Modifizierungen der Excel-Tabelle vorgenommen. Beispielsweise das Definieren von neuen Oberbegriffen oder eine neue Zuteilung der Unterbegriffe .Im späteren Verlauf des Projekts wurde das gesamte Ergebnis gemeinsam mit dem Ergebnis der anderen Gruppe in einer Excel-Datei zusammengeführt.
