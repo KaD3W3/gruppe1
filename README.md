@@ -18,6 +18,7 @@
 #### 8 Quellen
 #### 9 Webapp
 #### 10 Poster
+#### 11 Taxonomie Tabelle
 
 ## 1.  Die modellierte Domäne 
 
@@ -54,7 +55,7 @@ Außerdem war es für einige Gruppenmitglieder schwierig zwischen Objekten, Subj
 
 >Die erste organisatorische Herausforderung war: Die Uneinigkeiten der Modellierung in der ersten Phase. 
 >Aufgrund der Unstimmigkeiten gewisser Begriffe beider Gruppen gab es Schwierigkeiten, bei der Zusammenführung von Begriffen. Dies war die zweite Herausforderung, auf die wir gestoßen sind.
-Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zustande kamen. Aufgrund persönlicher Situationen sei es wegen Vorlesungen, privater Angelegenheiten etc. war es nicht immer möglich, dass jedes einzelne Gruppenmitglied außerhalb der Vorlesung anwesend sein konnte. Daher wurde meist im kleinen Kreis an der gemeinsamen Tabelle gearbeitet bzw. innerhalb der eigenen Gruppe
+Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zustande kamen. Aufgrund persönlicher Situationen sei es wegen Vorlesungen, privater Angelegenheiten etc. war es nicht immer möglich, dass jedes einzelne Gruppenmitglied außerhalb der Vorlesung anwesend sein konnte. Daher wurde meist im kleinen Kreis an der gemeinsamen Tabelle gearbeitet bzw. innerhalb der eigenen Gruppe.
 
 ## 4. Versionen des Modells – was jeweils verändert wurde ?
 
@@ -89,7 +90,7 @@ Hierbei wurden sowohl, wie bereits in den vorherigen Abschnitten erwähnt, Oberb
 
 >In den ersten Schritten zur Qualitätssicherung, wurden alle Begriffe jedes einzelnen Gruppenmitgliedes in einer Excel Tabelle überführt, basieren auf den Recherchen des Handbuchs. Durch  Diskussionen innerhalb der Gruppe, wurden bestehenden Unstimmigkeiten und offene Fragen erörtert und beantwortet. Im folgenden Schritt wurden die Duplikate identifiziert und entfernt. Zudem mussten die Oberbegriffe und Unterbegriffe bestimmt werden. Hierbei wurde ein Modellierungssystem verwendet, um die logischen Zusammenhänge zu visualisieren und dies innerhalb der Gruppe zu erörtern. Unklarheiten bei gewissen Begriffen wurden im Handbuch erneut recherchiert und geprüft, um Begrifflichkeiten korrekt zu Kategorisieren. Anschließend wurden die Ergebnisse innerhalb der Gruppe vorgestellt und erörtert. 
 Weitere Schritte der Qualitätssicherung waren die Feedbacks von Prof. Sasaki und den Damen vom Cornelsen Verlag. Hierbei wurden die Unklarheiten der Begriffe bzw. falsch interpretierte Zuordnungen erfasst und debattiert. Dank dieses Feedbacks wurden die Tabellen dementsprechend angepasst. Auch die Feedbacks der Gruppe 2 wurden in Betracht gezogen und eingearbeitet.
-Die größte Hürde der Qualitätssicherung, war das Zusammenführen der beiden Gruppentabellen. Da jede Gruppe zum Teil andere Oberbegriffe definiert und zum Teil Unterbegriffe anders zugeordnet haben. Hierbei spielten die Gruppenmeetings eine große Rolle, um die Unstimmigkeiten von gewissen Begriffen zu klären. Bei Unklarheiten bzw. Unstimmigkeiten innerhalb der Gruppen, wurde erneut das Handbuch herangezogen, um dies zu erörtern. Auch die Feedbacks von Prof. Sasaki und den Damen von Cornelsen, führten zu Klarstellungen bei Unklarheiten der Begriffszuordnung und Überarbeitungen der gemeinsamen Tabelle
+Die größte Hürde der Qualitätssicherung, war das Zusammenführen der beiden Gruppentabellen. Da jede Gruppe zum Teil andere Oberbegriffe definiert und zum Teil Unterbegriffe anders zugeordnet haben. Hierbei spielten die Gruppenmeetings eine große Rolle, um die Unstimmigkeiten von gewissen Begriffen zu klären. Bei Unklarheiten bzw. Unstimmigkeiten innerhalb der Gruppen, wurde erneut das Handbuch herangezogen, um dies zu erörtern. Auch die Feedbacks von Prof. Sasaki und den Damen von Cornelsen, führten zu Klarstellungen bei Unklarheiten der Begriffszuordnung und Überarbeitungen der gemeinsamen Tabelle.
 
 
 
@@ -107,8 +108,8 @@ Das Positive war, dass die Aufgaben eigenständig ausgeführt wurden, Erfahrung 
 
 ## 7. Anhang
 
->[Elvis_BPMN2](https://github.com/KaD3W3/gruppe1/blob/master/Picture/Elvis_BPMN2.png)
-
+[Elvis_BPMN2](https://github.com/KaD3W3/gruppe1/blob/master/Picture/Elvis_BPMN2.png)
+[Poster](https://github.com/KaD3W3/gruppe1/blob/master/Poster_Leipziger_Semantic_Web%20Tag.pdf)
 ## 8. Quellen
 
 [Elvis_HABU](https://github.com/KaD3W3/gruppe1/blob/master/Elvis_HABU_31032020.pdf)
@@ -119,5 +120,8 @@ Das Positive war, dass die Aufgaben eigenständig ausgeführt wurden, Erfahrung 
 
 ## 10. Poster
 [Poster](https://github.com/KaD3W3/gruppe1/blob/master/Poster_Leipziger_Semantic_Web%20Tag.pdf)
+
+## 11. Taxonomie Tabelle
+[Taxonomie Tabelle](https://github.com/KaD3W3/gruppe1/blob/master/Vollst%C3%A4ndige_Tabelle_Taxonomie.xlsx)
 
 
