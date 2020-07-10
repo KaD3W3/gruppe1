@@ -15,10 +15,10 @@
 
 #### 6 Sicht auf das Ergebnis: was ist gut, was hätte besser sein können?
 #### 7 Anhang
-#### 8 Quellen
-#### 9 Webapp
-#### 10 Poster
-#### 11 Taxonomie Tabelle
+#### 8 Webapp
+#### 9 Poster vom 8. Leipziger Semantic Web Tag 2020
+#### 10 Taxonomie Tabelle
+#### 11 Quellen
 
 ## 1.  Die modellierte Domäne 
 
@@ -81,7 +81,9 @@ Hierbei wurden sowohl, wie bereits in den vorherigen Abschnitten erwähnt, Oberb
 
 <h4> Abbildung 5: Aktuelle Tabellenstruktur </h4> 
 <img src ="https://cdn.discordapp.com/attachments/692412361101017088/712031935337070673/Unbenannt_Abbildung_5.png">
- 
+
+>Die vollständige Taxonomie-Tabelle ist im Kapitel 10 abgelegt.
+
 >Zusätzlich wurden  Definitionen für die Bezeichnungen nachgetragen, so das eine klare Begriffserklärungen vorhanden sind, um Homonym zu vermeiden.
    
 ## 5. Vorgehen bei der Qualitätssicherung
@@ -106,18 +108,16 @@ Das Positive war, dass die Aufgaben eigenständig ausgeführt wurden, Erfahrung 
 
 [Elvis_BPMN2](https://github.com/KaD3W3/gruppe1/blob/master/Picture/Elvis_BPMN2.png)
 
-## 8. Quellen
-
-[Elvis_HABU](https://github.com/KaD3W3/gruppe1/blob/master/Elvis_HABU_31032020.pdf)
-
-## 9. Webapp
+## 8. Webapp
 
 [Webapp](https://kad3w3.github.io/gruppe1/)
 
-## 10. Poster vom 8. Leipziger Semantic Web Tag 2020
+## 9. Poster vom 8. Leipziger Semantic Web Tag 2020
 [Poster](https://github.com/KaD3W3/gruppe1/blob/master/Poster_Leipziger_Semantic_Web%20Tag.pdf)
 
-## 11. Taxonomie Tabelle
+## 10. Taxonomie Tabelle
 [Taxonomie Tabelle](https://github.com/KaD3W3/gruppe1/blob/master/Vollst%C3%A4ndige_Tabelle_Taxonomie.xlsx)
 
-
+## 11. Quellen
+Elvis 6 Benutzerhandbuch von der Firma Cornelsen
+[Elvis_HABU](https://github.com/KaD3W3/gruppe1/blob/master/Elvis_HABU_31032020.pdf)
