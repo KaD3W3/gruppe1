@@ -8,7 +8,7 @@
 
 #### 3 Schwierigkeiten
 ##### 3.1 Modellierungs-Optionen
-#####  3.2 Organisatorische Herausforderungen
+##### 3.2 Organisatorische Herausforderungen
 
 #### 4 Versionen des Modells – was jeweils verändert wurde?   
 #### 5 Vorgehen bei der Qualitätssicherung
@@ -30,10 +30,10 @@
 >Um das Elvis-Handbuch zu modellieren, wurden verschiedene Schritte durchgeführt. 
 Zunächst wurde das Elvis-Handbuch unter den zwei Gruppen aufgeteilt. Unsere Gruppe beschäftigte sich mit den Abschnitten 1.1. bis 1.9. Die Abschnitte wurden innerhalb der Gruppe untereinander erneut aufgeteilt, sodass jedes Mitglied etwa 15 Seiten ausarbeiten sollte. Das Ziel von dieser Phase war es, wichtige Begriffe, Methoden sowie Funktionen aus dem Handbuch zu erfassen, die modelliert werden sollen. Diese wurden in eine Excel-Tabelle eingetragen. Außerdem wurden mögliche Duplikate entfernt. Mit dem Online-Tool MindMeister [mindmeister](https://www.mindmeister.com/de) und [MindVisualizer](https://de.freedownloadmanager.org/Windows-PC/MindVisualizer-Standard.html) wurde eine Begriffshierarchie grafisch visualisiert, umso Ober- und Unterbegriffe zu bestimmen.
 
-<h3> Abbildung 1: Elvis-Thesaurus </h3> 
+> <h4> Abbildung 1: Elvis-Thesaurus </h4> 
 <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/ElvisThesaurus1.jpg" > 
 
- >Die ermittelte Struktur, wurde anschließend in die Excel-Tabelle übernommen. Um eine Hierarchie darzustellen, wurden für jede Ebene unterschiedliche Farben verwendet. In der Abb. 1 ist das Ergebnis des Thesaurus zu sehen, sowie der Umfang wichtiger Begrifflichkeiten.
+> Die ermittelte Struktur, wurde anschließend in die Excel-Tabelle übernommen. Um eine Hierarchie darzustellen, wurden für jede Ebene unterschiedliche Farben verwendet. In der Abb. 1 ist das Ergebnis des Thesaurus zu sehen, sowie der Umfang wichtiger Begrifflichkeiten.
 > Dadurch konnten auch die Zusammenhänge zwischen den einzelnen Begriffen festgestellt werden. Im nächsten Schritt wurden im Elvis-Handbuch nach Synonymen recherchiert für die einzelnen Begriffe. Ebenfalls wurden anhand der Feedbacks seitens Prof. Sasaki, der Firma Cornelsen und der anderen Gruppe einige Korrekturen und Modifizierungen der Excel-Tabelle vorgenommen. Beispielsweise das Definieren von neuen Oberbegriffen oder eine neue Zuteilung der Unterbegriffe .Im späteren Verlauf des Projekts wurde das gesamte Ergebnis gemeinsam mit dem Ergebnis der anderen Gruppe in einer Excel-Datei zusammengeführt.
 > In dieser Phase wurden ebenfalls die vorkommenden Duplikate herausgefiltert und die Begriffe der beiden Gruppen wurden in eine einheitliche Hierarchie eingeordnet. Abschließend wurde eine ID-Nummerierung der jeweiligen Bereiche definiert. Alle diese Teilschritte wurden durch mehrere Treffen bzw. Meetings ausgearbeitet.
 
@@ -61,29 +61,27 @@ Schließlich gab es auch die Herausforderung, dass die Meetings nicht immer zust
 
 >Die Modelle der Gruppe wurden in einer Excel-Datei generiert (siehe Abbildung 2), die aus mehreren Reitern bestand. In der ersten Phase des Modells (Im Reiter: “alleTeileEinzeln”), existierte kein einheitlicher strukturierter Aufbau der Begriffe. Da nur, alle gesammelten Begriffe jedes einzelnen Gruppenmitglieds dort drin aufgeführt waren. 
 
-<h3> Abbildung 2: Excel-Datei </h3> 
+> <h4> Abbildung 2: Excel-Datei </h4> 
 <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Excel-Datei.PNG" >
 
 >Nachdem dieser Teilschritt vollzogen wurde, wurden im Reiter “zusammengefasst” all diese Begriffe in einer strukturierten Tabelle zusammengefasst und alphabetisch geordnet. Hierbei half die Alphabetische Sortierung zur Lokalisierung der Duplikate, die dann entfernt wurden. 
 
 >Im nächsten Teilschritt der Tabellenstruktur (siehe Reiter ausMindMeisterKopiert), wurde wie bereits im zweiten Kapitel erwähnt, dass Mindmeister-Verfahren angewandt, um die Ober und- Unterstrukturen zu definieren, um so eine Hierarchiestruktur zu erzeugen (siehe Abbildung 3).
  
- <h3> Abbildung 3: Tabellenstruktur </h3>
- <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur.PNG">   
+> <h4> Abbildung 3: Tabellenstruktur </h4>
+<img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur.PNG">   
 
 >Im späteren Verlauf wurden die Synonyme der jeweiligen Begrifflichkeiten zugeordnet, sowie die Farblegende zur Hierarchien-Zuordnung der Begriffe inklusive ID festgelegt. Durch die Feedbacks seitens Cornelsen, Prof. Sasaki und der anderen Gruppe, wurden dann gewisse Unterbegriffe neu zugeordnet bzw. Oberbegriffe neu ausgerichtet. Dieser Prozess ist im Reiter “MindMeisterNachFeedback” zu sehen (siehe Abbildung 4). 
 
-<h3> Abbildung 4: Tabellenstruktur ,,MindMeisterNachFeedback" </h3> 
- <img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur%20%2C%2CMindMeisterNachFeedback.PNG">
+> <h4> Abbildung 4: Tabellenstruktur ,,MindMeisterNachFeedback" </h4> 
+<img src ="https://github.com/KaD3W3/gruppe1/blob/master/Picture/Tabellenstruktur%20%2C%2CMindMeisterNachFeedback.PNG">
   
 >Im letzten Schritt wurde eine neue Excel-Datei angelegt, die das Zusammenführen beider Tabellen beinhalten (siehe Abbildung 5).
 Hierbei wurden sowohl, wie bereits in den vorherigen Abschnitten erwähnt, Oberbegriffe und Unterbegriffe neu zugeordnet bzw. neu ausformuliert. Ebenfalls in diesem Schritt, mussten gewisse Duplikate lokalisiert und entfernt werden, die sich in beiden Tabellen befanden. Es musste jedoch ein baldiger Schlussstrich gezogen werden, da sonst noch eine endlose Zeit vergehen könnte, für die optimale Struktur der Tabelle.
 
-<h3> Abbildung 5: Aktuelle Tabellenstruktur </h3> 
- <img src ="https://cdn.discordapp.com/attachments/692412361101017088/712031935337070673/Unbenannt_Abbildung_5.png">
+> <h4> Abbildung 5: Aktuelle Tabellenstruktur </h4> 
+<img src ="https://cdn.discordapp.com/attachments/692412361101017088/712031935337070673/Unbenannt_Abbildung_5.png">
  
-  
-  
 >Zusätzlich wurden  Definitionen für die Bezeichnungen nachgetragen, so das eine klare Begriffserklärungen vorhanden sind, um Homonym zu vermeiden.
    
 ## 5. Vorgehen bei der Qualitätssicherung
@@ -91,8 +89,6 @@ Hierbei wurden sowohl, wie bereits in den vorherigen Abschnitten erwähnt, Oberb
 >In den ersten Schritten zur Qualitätssicherung, wurden alle Begriffe jedes einzelnen Gruppenmitgliedes in einer Excel Tabelle überführt, basieren auf den Recherchen des Handbuchs. Durch  Diskussionen innerhalb der Gruppe, wurden bestehenden Unstimmigkeiten und offene Fragen erörtert und beantwortet. Im folgenden Schritt wurden die Duplikate identifiziert und entfernt. Zudem mussten die Oberbegriffe und Unterbegriffe bestimmt werden. Hierbei wurde ein Modellierungssystem verwendet, um die logischen Zusammenhänge zu visualisieren und dies innerhalb der Gruppe zu erörtern. Unklarheiten bei gewissen Begriffen wurden im Handbuch erneut recherchiert und geprüft, um Begrifflichkeiten korrekt zu Kategorisieren. Anschließend wurden die Ergebnisse innerhalb der Gruppe vorgestellt und erörtert. 
 Weitere Schritte der Qualitätssicherung waren die Feedbacks von Prof. Sasaki und den Damen vom Cornelsen Verlag. Hierbei wurden die Unklarheiten der Begriffe bzw. falsch interpretierte Zuordnungen erfasst und debattiert. Dank dieses Feedbacks wurden die Tabellen dementsprechend angepasst. Auch die Feedbacks der Gruppe 2 wurden in Betracht gezogen und eingearbeitet.
 Die größte Hürde der Qualitätssicherung, war das Zusammenführen der beiden Gruppentabellen. Da jede Gruppe zum Teil andere Oberbegriffe definiert und zum Teil Unterbegriffe anders zugeordnet haben. Hierbei spielten die Gruppenmeetings eine große Rolle, um die Unstimmigkeiten von gewissen Begriffen zu klären. Bei Unklarheiten bzw. Unstimmigkeiten innerhalb der Gruppen, wurde erneut das Handbuch herangezogen, um dies zu erörtern. Auch die Feedbacks von Prof. Sasaki und den Damen von Cornelsen, führten zu Klarstellungen bei Unklarheiten der Begriffszuordnung und Überarbeitungen der gemeinsamen Tabelle.
-
-
 
  ## 6. Unseres Sicht auf das Ergebnis
 
@@ -109,7 +105,7 @@ Das Positive war, dass die Aufgaben eigenständig ausgeführt wurden, Erfahrung 
 ## 7. Anhang
 
 [Elvis_BPMN2](https://github.com/KaD3W3/gruppe1/blob/master/Picture/Elvis_BPMN2.png)
-[Poster](https://github.com/KaD3W3/gruppe1/blob/master/Poster_Leipziger_Semantic_Web%20Tag.pdf)
+
 ## 8. Quellen
 
 [Elvis_HABU](https://github.com/KaD3W3/gruppe1/blob/master/Elvis_HABU_31032020.pdf)
@@ -118,7 +114,7 @@ Das Positive war, dass die Aufgaben eigenständig ausgeführt wurden, Erfahrung 
 
 [Webapp](https://kad3w3.github.io/gruppe1/)
 
-## 10. Poster
+## 10. Poster vom 8. Leipziger Semantic Web Tag 2020
 [Poster](https://github.com/KaD3W3/gruppe1/blob/master/Poster_Leipziger_Semantic_Web%20Tag.pdf)
 
 ## 11. Taxonomie Tabelle
